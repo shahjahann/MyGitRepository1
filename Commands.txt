@@ -1,0 +1,10 @@
+git config:- 1 time-> user.name
+			and
+		-> user.email
+
+
+git init ->1 time must -> git clone
+
+
+master --> default  branch
+
